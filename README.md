@@ -18,11 +18,11 @@ Adding the cryptographic hash function SHA-256 to create the CheckSum, ensuring 
 
 ### How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
-By testing and running the application in eclipse, I was able to make sure the application was functional. After refactoring, I ran the project through another dependency check to make sure the number of vulnerabilities detected had not increased. 
+By testing and running the application in Eclipse, I was able to make sure the application was functional. After refactoring, I ran the project through another dependency check to make sure the number of vulnerabilities detected had not increased. 
 
 ### What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
-The OWASP dependency check, the keytool extension in eclipse to ensure https connections, and the Oracle and OWASP guidelines on security and secure coding practices were extremely helpful resources that I will utilize in the future. 
+The OWASP dependency check, the keytool extension in Eclipse to ensure HTTPS connections, and the Oracle and OWASP guidelines on security and secure coding practices were extremely helpful resources that I will utilize in the future. 
 
 ### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
